@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212929519022",
+    "project_id": "notes-ed801",
+    "storage_bucket": "notes-ed801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212929519022:android:d2dde804bbc865d36a7c3f",
+        "android_client_info": {
+          "package_name": "com.fox.server_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212929519022-isju7047qpl678c7sds8k97q4e5cvaqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCWnJqYd7toawiqB0h_NVjB_2B-9MvSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212929519022-isju7047qpl678c7sds8k97q4e5cvaqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
